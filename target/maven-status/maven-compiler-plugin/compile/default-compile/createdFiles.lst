@@ -1,0 +1,4 @@
+pagefactory\HomePageElements.class
+resources\Base.class
+pagefactory\SignInDetailsElements.class
+pagefactory\SearchedItemPageElements.class
